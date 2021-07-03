@@ -27,9 +27,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<p align="right">
-  ![](https://komarev.com/ghpvc/?username=vikram-rajput)
-</p>
+
+![](https://komarev.com/ghpvc/?username=vikram-rajput)
+
 <!--
 **vikram-rajput/vikram-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
