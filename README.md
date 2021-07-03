@@ -12,7 +12,7 @@
   👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx vikramrajput
 ```
 </p>
 
