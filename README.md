@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src="https://res.cloudinary.com/vikram-rajput/image/upload/v1625349959/ott-vikram-rajput.png">
-<iframe src="https://vikram.rajput.com" width="100%" height="600"></iframe>
+![](https://komarev.com/ghpvc/?username=vikram-rajput)
+<!-- <img src="https://res.cloudinary.com/vikram-rajput/image/upload/v1625349959/ott-vikram-rajput.png"> -->
+
 <!--
 **vikram-rajput/vikram-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
